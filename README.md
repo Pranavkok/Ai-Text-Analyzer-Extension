@@ -43,7 +43,7 @@ This extension requires a Python Flask backend to process AI responses.
 ---
 
 ## 🎥 Project Demo
-https://drive.google.com/drive/folders/1-RN9hvKxN4Ly7fgoiIqZuP7GDGTQGxZk
+https://drive.google.com/drive/folders/1DNIZKAZ_yl9N8c767J4j-ehQIFiAgxJl
 
 ---
 
