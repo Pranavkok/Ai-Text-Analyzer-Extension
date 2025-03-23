@@ -50,7 +50,7 @@ https://drive.google.com/drive/folders/1-RN9hvKxN4Ly7fgoiIqZuP7GDGTQGxZk
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (Chrome Extension)
 - **Backend:** Python, Flask (AI Processing)
-- **API:** OpenAI GPT (Planned Integration)
+- **API:** Mistral Nemo 12B instruct 2407
 
 ---
 
